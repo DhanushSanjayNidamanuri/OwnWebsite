@@ -1,0 +1,57 @@
+table{ 
+    text-align: center;
+    font-family: cursive;
+    width: 40%;
+}
+td:nth-child(1){
+    padding-left:3%;
+    background-color: #8697C4;
+    padding: 1%;
+    border-radius: 6px;
+}
+td:nth-child(2){
+    padding-left:3%;
+    background-color: #ADBBDA;
+    padding: 1%;
+    border-radius: 6px;
+}
+#Gmail{
+    height:auto;
+    width:10%;
+    border-radius: 100px;
+    position: fixed;
+    left:24%;
+    margin-top:5%;
+}
+#Instagram{
+    height:auto;
+    width:15%;
+    position: fixed;
+    top: 50%;
+    left:10%;
+
+}
+#linked{
+    height:auto;
+    width:18%;
+    position: fixed;
+    top: 45%;
+    left:30%;
+    
+}
+#X{
+    height:auto;
+    width:10%;
+    border-radius: 100px;
+    position: fixed;
+    top: 55%;
+    left:55%;
+}
+#discord{
+    height:auto;
+    width:10%;
+    border-radius: 100px;
+    position: fixed;
+    top: 55%;
+    left:75%;
+}

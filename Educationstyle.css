@@ -1,0 +1,47 @@
+#Education_Heading{
+    text-align: center;
+    font-family: cursive;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+}
+
+th:nth-child(2),td:nth-child(2){
+    width: 35.50%; /* 600px of 1690px */
+ /* 40px of 785px */
+}
+
+td:nth-child(1){
+    width: 7.10%;
+ /* 120px of 1690px */ /* 30px of 785px */
+}
+
+th:nth-child(3), td:nth-child(3){
+    width: 18.34%;
+ /* 310px of 1690px */  
+}
+
+th:nth-child(4), td:nth-child(4){
+    width: 18.34%;  
+}
+
+th:nth-child(5), td:nth-child(5){
+    width: 18.34%;  
+}
+
+th{
+    background-color: #8697C4;
+    border-radius: 4px;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+td{
+    background-color: #ADBBDA;
+    border-radius: 4px;
+    padding-top: 0.25%;
+    padding-bottom: 0.25%;
+}
