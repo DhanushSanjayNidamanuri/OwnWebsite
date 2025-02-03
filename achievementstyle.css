@@ -1,0 +1,9 @@
+#list{
+    font-family: cursive;
+    font-size: x-large;
+    position: absolute;
+    left: 20%;
+    top:15%;
+    line-height: 1.5;
+    width: 60%;
+}
